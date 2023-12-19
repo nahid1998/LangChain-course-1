@@ -1,2 +1,2 @@
-# LnagChain-for-LLM-application-course
-the codes from LnagChain for LLM application course
+# LangChain-for-LLM-application-course
+the codes from LangChain for LLM application course by DeepLearning.AI
